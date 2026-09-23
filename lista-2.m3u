@@ -163,3 +163,5 @@ http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
 #EXTINF:-1 tvg-id="HboMovies.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Movies",HBO Movies East [576i]
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="FX.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Movies",FX South [480i]
+http://72.1.184.5:8089/play/a05i/index.m3u8
