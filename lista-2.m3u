@@ -133,3 +133,10 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece [1080]
 http://15.204.246.24:8080/eltreceHD/index.m3u8
 
+#EXTINF:-1 tvg-id="BobEsponja.ar@SD" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoSVG_1781042617821.svg" group-title="General",Pluto: Bob Esponja[720p]
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 tvg-id="Cartman.ar@SD" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoSVG.svg" group-title="General",Pluto: South Park: Cartman [720p]
+https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8
+#EXTINF:-1 tvg-id="SouthPark.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="General",Pluto: South Park[720p]
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+
