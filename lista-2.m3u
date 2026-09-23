@@ -16,6 +16,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/tacipf.png",Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeSalta.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" group-title="Undefined",Telefe Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar@SD" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="0923" tvg-name="Argentinisima Satelital" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/7cghqq.png",Argentinisima Satelital
@@ -28,31 +30,11 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar@SD" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremaTV.cr@SD" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV (720p)
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Religious",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 # Ordenar
 
-#EXTINF:-1 tvg-id="13Humor.cl@SD" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy",13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
-#EXTINF:-1 tvg-id="13Kids.cl@SD" tvg-logo="https://i.imgur.com/8WJUbSD.png" group-title="Kids",13 Kids (1080p)
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="88Stereo.cr@SD" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Music",88 Stereo (720p) [Not 24/7]
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment",¡OPA! (1080i) [Geo-blocked]
-https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
-#EXTINF:-1 tvg-id="A12TV.ci@SD" tvg-logo="https://i.imgur.com/JgnjgvF.png" group-title="General",A12 TV
-https://video1.getstreamhosting.com:1936/8250/8250/manifest.m3u8
-#EXTINF:-1 tvg-id="AcentoTV.do@SD" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",Acento TV
-#EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
-https://acentotv01.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="General",Aire de Santa Fe (1080p)
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="General",Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1 tvg-id="BuenaTV.pr@SD" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="Entertainment",Buena TV (1080p)
@@ -143,12 +125,3 @@ https://67acccf130420.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="PlayTelevision.ar@SD" tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg" group-title="Entertainment",Play Television (720p)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1 tvg-id="PlusTV.ec@SD" tvg-logo="https://i.imgur.com/TZqOINg.png" group-title="General",Plus TV (720p) [Not 24/7]
-https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-
-#Editing
-
-#EXTINF:-1 tvg-id="96701" tvg-name="Frecuencia Musical TV" tvg-logo="https://lh3.googleusercontent.com/-ZaK_huJOAX0/XtbEK5F64kI/AAAAAAAA1ZA/tVnxZV3VSzg-w08nJwkilSULPhV5KXiJwCK8BGAsYHg/s0/2020-06-02.jpg", Frecuencia Musical TV
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="104767" tvg-name="Frecuencia Musical TV 2" tvg-logo="https://lh3.googleusercontent.com/-ZaK_huJOAX0/XtbEK5F64kI/AAAAAAAA1ZA/tVnxZV3VSzg-w08nJwkilSULPhV5KXiJwCK8BGAsYHg/s0/2020-06-02.jpg", Frecuencia Musical TV 2
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8
