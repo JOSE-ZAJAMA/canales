@@ -137,8 +137,6 @@ http://15.204.246.24:8080/eltreceHD/index.m3u8
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="Icarly.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Series",Pluto: iCarly LatAm [720p]
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1 tvg-id="Icarly2.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Series",Pluto: iCarly SD [720p]
-https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
 #EXTINF:-1 tvg-id="BobEsponja.ar@SD" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoSVG_1781042617821.svg" group-title="Infantil",Pluto: Bob Esponja [720p]
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="Cartman.ar@SD" tvg-logo="https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoSVG.svg" group-title="General",Pluto: South Park: Cartman [720p]
@@ -161,3 +159,5 @@ https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 #EXTINF:-1 tvg-id="CineEspanol.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Movies",Pluto: Cine Espanol [720p]
 https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+#EXTINF:-1 tvg-id="HboMovies.ar@SD" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoSVG_1733160637079.svg" group-title="Movies",HBO Movies East [576i]
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
