@@ -20,6 +20,8 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar@SD" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Undefined",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece [1080-2]
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="0923" tvg-name="Argentinisima Satelital" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/7cghqq.png",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
@@ -130,5 +132,4 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece [1080]
 http://15.204.246.24:8080/eltreceHD/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="General",El Trece [1080-2]
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
